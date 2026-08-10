@@ -2,7 +2,7 @@
 
 ## Overview
 
-This first-year Electrical Engineering university project is a simple implementation of **Dijkstra's shortest-path algorithm** in Python.
+This first year Electrical Engineering university project is a simple implementation of **Dijkstra's shortest-path algorithm** in Python.
 
 The program also includes a graph visualization, making it possible to see the generated graph, its edge weights, and the shortest path found by the algorithm.
 
