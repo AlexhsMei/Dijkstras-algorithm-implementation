@@ -1,5 +1,9 @@
 # Dijkstra's Algorithm — Python Project
 
+**Authors:** 
+* [Αλέξης Μειντάνης](https://github.com/AlexhsMei)
+* [Γιώργος Ιωακείμαρος](https://github.com/ioakeimarosgiorgos)
+  
 ## Overview
 
 This first year Electrical Engineering university project is a simple implementation of **Dijkstra's shortest-path algorithm** in Python.
@@ -154,4 +158,3 @@ The graph is drawn using `networkx` and `matplotlib`.
 - Edges represent connections between vertices.
 - Numbers on the edges represent their weights.
 - The shortest path is highlighted in red.
-
