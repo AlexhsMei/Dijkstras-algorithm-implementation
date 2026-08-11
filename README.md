@@ -24,6 +24,16 @@ The program:
 
 The graph is generated randomly each time the program runs. This was added as an extra feature to demonstrate that the implementation is not dependent on one specific graph.
 
+## Example of program results
+<img width="700" alt="graph1" src="https://github.com/user-attachments/assets/d50658ca-e29f-4ce4-810f-7e59366bf3dc" />
+
+> The randomized graph before applying the Dijkstra algorithm.
+<br>
+<br>
+<img width="700" alt="graph2" src="https://github.com/user-attachments/assets/2ce3f4b9-f0ac-4a3d-8ff1-da6881602626" />
+
+> The solved graph after choosing start & end for the algorithm
+
 ## Requirements
 
 - Python 3
